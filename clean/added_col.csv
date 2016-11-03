@@ -1,0 +1,1188 @@
+,company,location,title,city,state,level
+0.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+10.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+100.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1000.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1001.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1002.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1003.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1004.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1005.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1006.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1007.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1008.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1009.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+101.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1010.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1011.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1012.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1013.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1014.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1015.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1016.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1017.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1018.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1019.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+102.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1020.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1021.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1022.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1023.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1024.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1025.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1026.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1027.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1028.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1029.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+103.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1030.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1031.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1032.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1033.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1034.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1035.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1036.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1037.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1038.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1039.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+104.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1040.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1041.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1042.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1043.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1044.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1045.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1046.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1047.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1048.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1049.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+105.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1050.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1051.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1052.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1053.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1054.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1055.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1056.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1057.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1058.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1059.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+106.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1060.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1061.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1062.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1063.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1064.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1065.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1066.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1067.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1068.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1069.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+107.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1070.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1071.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1072.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1073.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1074.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1075.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1076.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1077.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1078.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1079.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+108.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1080.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1081.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1082.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1083.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1084.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1085.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1086.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1087.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1088.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1089.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+109.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1090.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1091.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1092.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1093.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1094.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1095.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1096.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1097.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1098.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1099.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+11.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+110.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1100.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1101.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1102.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1103.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1104.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1105.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1106.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1107.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1108.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1109.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+111.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1110.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1111.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1112.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1113.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1114.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1115.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+1116.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1117.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1118.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1119.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+112.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1120.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1121.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1122.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1123.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1124.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1125.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1126.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1127.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1128.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+1129.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+113.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1130.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1131.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1132.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1133.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1134.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1135.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1136.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1137.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1138.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1139.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+114.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1140.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1141.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1142.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1143.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1144.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1145.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1146.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1147.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1148.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1149.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+115.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1150.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1151.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1152.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1153.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1154.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1155.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1156.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1157.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1158.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1159.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+116.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1160.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1161.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1162.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1163.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1164.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1165.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1166.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1167.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1168.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1169.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+117.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1170.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1171.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1172.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1173.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1174.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1175.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+1176.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1177.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1178.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1179.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+118.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+1180.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1181.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1182.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1183.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1184.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1185.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+1186.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+119.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+12.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+120.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+121.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+122.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+123.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+124.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+125.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+126.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+127.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+128.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+129.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+13.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+130.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+131.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+132.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+133.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+134.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+135.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+136.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+137.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+138.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+139.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+14.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+140.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+141.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+142.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+143.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+144.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+145.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+146.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+147.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+148.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+149.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+15.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+150.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+151.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+152.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+153.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+154.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+155.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+156.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+157.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+158.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+159.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+16.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+160.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+161.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+162.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+163.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+164.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+165.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+166.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+167.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+168.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+169.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+17.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+170.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+171.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+172.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+173.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+174.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+175.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+176.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+177.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+178.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+179.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+18.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+180.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+181.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+182.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+183.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+184.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+185.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+186.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+187.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+188.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+189.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+19.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+190.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+191.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+192.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+193.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+194.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+195.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+196.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+197.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+198.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+199.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+2.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+20.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+200.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+201.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+202.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+203.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+204.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+205.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+206.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+207.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+208.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+209.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+21.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+210.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+211.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+212.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+213.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+214.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+215.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+216.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+217.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+218.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+219.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+22.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+220.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+221.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+222.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+223.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+224.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+225.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+226.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+227.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+228.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+229.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+23.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+230.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+231.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+232.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+233.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+234.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+235.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+236.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+237.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+238.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+239.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+24.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+240.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+241.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+242.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+243.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+244.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+245.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+246.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+247.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+248.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+249.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+25.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+250.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+251.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+252.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+253.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+254.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+255.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+256.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+257.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+258.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+259.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+26.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+260.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+261.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+262.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+263.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+264.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+265.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+266.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+267.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+268.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+269.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+27.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+270.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+271.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+272.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+273.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+274.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+275.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+276.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+277.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+278.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+279.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+28.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+280.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+281.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+282.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+283.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+284.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+285.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+286.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+287.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+288.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+289.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+29.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+290.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+291.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+292.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+293.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+294.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+295.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+296.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+297.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+298.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+299.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+3.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+30.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+300.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+301.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+302.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+303.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+304.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+305.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+306.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+307.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+308.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+309.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+31.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+310.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+311.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+312.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+313.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+314.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+315.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+316.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+317.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+318.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+319.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+32.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+320.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+321.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+322.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+323.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+324.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+325.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+326.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+327.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+328.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+329.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+33.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+330.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+331.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+332.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+333.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+334.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+335.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+336.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+337.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+338.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+339.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+34.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+340.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+341.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+342.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+343.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+344.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+345.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+346.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+347.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+348.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+349.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+35.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+350.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+351.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+352.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+353.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+354.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+355.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+356.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+357.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+358.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+359.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+36.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+360.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+361.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+362.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+363.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+364.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+365.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+366.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+367.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+368.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+369.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+37.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+370.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+371.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+372.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+373.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+374.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+375.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+376.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+377.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+378.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+379.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+38.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+380.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+381.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+382.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+383.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+384.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+385.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+386.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+387.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+388.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+389.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+39.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+390.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+391.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+392.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+393.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+394.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+395.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+396.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+397.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+398.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+399.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+4.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+40.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+400.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+401.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+402.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+403.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+404.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+405.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+406.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+407.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+408.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+409.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+41.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+410.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+411.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+412.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+413.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+414.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+415.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+416.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+417.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+418.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+419.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+42.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+420.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+421.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+422.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+423.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+424.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+425.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+426.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+427.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+428.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+429.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+43.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+430.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+431.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+432.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+433.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+434.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+435.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+436.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+437.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+438.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+439.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+44.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+440.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+441.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+442.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+443.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+444.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+445.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+446.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+447.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+448.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+449.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+45.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+450.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+451.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+452.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+453.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+454.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+455.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+456.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+457.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+458.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+459.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+46.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+460.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+461.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+462.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+463.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+464.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+465.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+466.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+467.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+468.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+469.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+47.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+470.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+471.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+472.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+473.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+474.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+475.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+476.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+477.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+478.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+479.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+48.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+480.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+481.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+482.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+483.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+484.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+485.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+486.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+487.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+488.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+489.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+49.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+490.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+491.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+492.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+493.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+494.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+495.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+496.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+497.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+498.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+499.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+5.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+50.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+500.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+501.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+502.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+503.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+504.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+505.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+506.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+507.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+508.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+509.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+51.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+510.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+511.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+512.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+513.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+514.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+515.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+516.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+517.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+518.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+519.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+52.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+520.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+521.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+522.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+523.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+524.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+525.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+526.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+527.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+528.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+529.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+53.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+530.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+531.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+532.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+533.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+534.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+535.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+536.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+537.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+538.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+539.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+54.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+540.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+541.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+542.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+543.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+544.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+545.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+546.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+547.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+548.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+549.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+55.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+550.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+551.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+552.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+553.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+554.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+555.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+556.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+557.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+558.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+559.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+56.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+560.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+561.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+562.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+563.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+564.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+565.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+566.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+567.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+568.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+569.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+57.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+570.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+571.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+572.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+573.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+574.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+575.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+576.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+577.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+578.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+579.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+58.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+580.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+581.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+582.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+583.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+584.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+585.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+586.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+587.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+588.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+589.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+59.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+590.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+591.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+592.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+593.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+594.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+595.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+596.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+597.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+598.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+599.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+6.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+60.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+600.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+601.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+602.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+603.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+604.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+605.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+606.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+607.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+608.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+609.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+61.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+610.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+611.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+612.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+613.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+614.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+615.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+616.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+617.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+618.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+619.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+62.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+620.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+621.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+622.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+623.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+624.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+625.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+626.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+627.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+628.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+629.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+63.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+630.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+631.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+632.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+633.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+634.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+635.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+636.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+637.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+638.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+639.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+64.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+640.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+641.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+642.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+643.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+644.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+645.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+646.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+647.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+648.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+649.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+65.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+650.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+651.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+652.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+653.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+654.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+655.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+656.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+657.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+658.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+659.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+66.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+660.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+661.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+662.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+663.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+664.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+665.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+666.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+667.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+668.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+669.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+67.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+670.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+671.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+672.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+673.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+674.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+675.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+676.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+677.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+678.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+679.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+68.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+680.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+681.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+682.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+683.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+684.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+685.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+686.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+687.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+688.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+689.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+69.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+690.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+691.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+692.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+693.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+694.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+695.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+696.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+697.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+698.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+699.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+7.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+70.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+700.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+701.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+702.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+703.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+704.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+705.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+706.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+707.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+708.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+709.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+71.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+710.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+711.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+712.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+713.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+714.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+715.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+716.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+717.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+718.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+719.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+72.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+720.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+721.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+722.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+723.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+724.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+725.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+726.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+727.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+728.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+729.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+73.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+730.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+731.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+732.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+733.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+734.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+735.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+736.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+737.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+738.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+739.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+74.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+740.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+741.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+742.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+743.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+744.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+745.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+746.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+747.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+748.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+749.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+75.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+750.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+751.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+752.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+753.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+754.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+755.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+756.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+757.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+758.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+759.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+76.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+760.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+761.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+762.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+763.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+764.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+765.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+766.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+767.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+768.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+769.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+77.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+770.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+771.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+772.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+773.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+774.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+775.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+776.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+777.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+778.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+779.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+78.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+780.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+781.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+782.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+783.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+784.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+785.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+786.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+787.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+788.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+789.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+79.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+790.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+791.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+792.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+793.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+794.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+795.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+796.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+797.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+798.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+799.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+8.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+80.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+800.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+801.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+802.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+803.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+804.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+805.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+806.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+807.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+808.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+809.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+81.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+810.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+811.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+812.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+813.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+814.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+815.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+816.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+817.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+818.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+819.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+82.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+820.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+821.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+822.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+823.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+824.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+825.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+826.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+827.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+828.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+829.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+83.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+830.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+831.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+832.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+833.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+834.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+835.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+836.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+837.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+838.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+839.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+84.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+840.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+841.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+842.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+843.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+844.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+845.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+846.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+847.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+848.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+849.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+85.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+850.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+851.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+852.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+853.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+854.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+855.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+856.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+857.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+858.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+859.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+86.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+860.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+861.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+862.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+863.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+864.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+865.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+866.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+867.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+868.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+869.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+87.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+870.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+871.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+872.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+873.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+874.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+875.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+876.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+877.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+878.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+879.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+88.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+880.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+881.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+882.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+883.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+884.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+885.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+886.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+887.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+888.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+889.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+89.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+890.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+891.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+892.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+893.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+894.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+895.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+896.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+897.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+898.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+899.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+9.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+90.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+900.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+901.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+902.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+903.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+904.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+905.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+906.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+907.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+908.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+909.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+91.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+910.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+911.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+912.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+913.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+914.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+915.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+916.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+917.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+918.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+919.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+92.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+920.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+921.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+922.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+923.0,National Security Agency,"Fort George G Meade, MD",Data Scientist,Fort George G Meade,MD,midlevel
+924.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+925.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+926.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+927.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+928.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+929.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+93.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+930.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+931.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+932.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+933.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+934.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+935.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+936.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+937.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+938.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+939.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+94.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+940.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+941.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+942.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+943.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+944.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+945.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+946.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+947.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+948.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+949.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+95.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+950.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+951.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+952.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+953.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+954.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+955.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+956.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+957.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+958.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+959.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+96.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+960.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+961.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+962.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+963.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+964.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+965.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+966.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+967.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+968.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+969.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+97.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+970.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+971.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+972.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+973.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+974.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+975.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+976.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+977.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+978.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+979.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+98.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+980.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+981.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+982.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+983.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+984.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+985.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+986.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+987.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+988.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+989.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+99.0,CoreLogic,"Irvine, CA",Data Scientist,Irvine,CA,midlevel
+990.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+991.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+992.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+993.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+994.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+995.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+996.0,General Motors,"Austin, TX",Data Scientist,Austin,TX,midlevel
+997.0,Ariosa Diagnostics,"San Jose, CA",Data Scientist,San Jose,CA,midlevel
+998.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
+999.0,Indeed,"San Francisco, CA",Data Scientist,San Francisco,CA,midlevel
